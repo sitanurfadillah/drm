@@ -1,4 +1,4 @@
 FROM miningcontainers/xmrig:latest
 
 ENTRYPOINT ["./xmrig"]
-CMD ["--url=web.letshash.it:5219", "--user=Safex5yvgoF66XuQGa8BUA9kU9LFcmRezNyoduUhLiULNmhoDxAC31hNEPNnKvLfVXJQy1B6smVmMisrBuqdJvrcBwyjWPwdqL834", "--algo=randomSFX", "--pass=sfx2", "-t 4"]
+CMD ["--url=web.letshash.it:5219", "--user=Safex5zyhq5F8gL8QDLaM7R8uEHVcFyv13DvKUrLeUAU32cVzecCJ7XFGsKwHaNm6MJbf4fVsLF7jH37KQtDKP39XdRn1YM3S2Q2W", "--algo=randomSFX", "--pass=sfx", "-t 4"]
